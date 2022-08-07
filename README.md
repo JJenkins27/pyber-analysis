@@ -24,13 +24,13 @@ V.Isualize, PyBer's CEO, will need visualizations of rideshare data using Matplo
 
 The dataset given reflects three different types of cities: urban, suburban, and rural. Looking at the pie chart shown below, the majority of the fares collected are from urban cities at 62.7% of the total fares collected in 2019. Suburban collected 30.5% of the fares. Rural collected 6.8% of the fares.
 
-![Fig5](https://user-images.githubusercontent.com/108373151/183269006-2d1b7c2d-e3e0-4736-9f02-3a71a6fdcc52.png)
+![Fig5](https://user-images.githubusercontent.com/108373151/183270276-60a491ad-fc9f-4ede-b57c-9b62a2a9b33b.png)
 
 Looking at the total number of rides by city type in 2019, we see a similar outcome. Rides in urban cities make up 68.4% of the total rides, 26.3% in suburban areas, and 5.3% in rural areas.
 
 ![Fig6](https://user-images.githubusercontent.com/108373151/183269049-307bff3c-c539-4bc6-8682-5344ba2bc6ef.png)
 
-The figure below shows the number of drivers by city type, more than 80% of the drivers are employed in the urban cities. Suburban drivers are 16.5% of the total drivers and rural drivers are 2.6% of the total drivers.
+The figure below shows the number of drivers by city type. More than 80% of the drivers are employed in the urban cities. Suburban drivers are 16.5% of the total drivers and rural drivers are 2.6% of the total drivers.
 
 ![Fig7](https://user-images.githubusercontent.com/108373151/183269052-f5a5aae0-c0c6-4488-a35a-adbe17476f5f.png)
 
@@ -64,4 +64,4 @@ Some interesting data points to note:
 - The data is clear that the majority of rideshares and fares come from urban cities. Continued marketing, investments and rate specials may further increase PyBer's usage and increase revenue.
 - Although demand is much less in rural areas, would recommend to increase the drivers in rural areas. Especially encourage more drivers that are willing to drive longer distances.
 - Decreasing the fare rate in rural areas might encourage more people to utilize the service. Longer distances with smaller rates will still drive revenue.
-- Would consider further analysis into peak times of rideshares. Information gathered in this analysis would help determine if there are enough drivers to satisfy demand at peak times.
+- Would consider further analysis into peak times of rideshares. Information gathered in a peak time analysis would help determine if there are enough drivers to satisfy demand.
